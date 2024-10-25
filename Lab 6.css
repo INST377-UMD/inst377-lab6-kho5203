@@ -1,0 +1,16 @@
+#map { 
+    height: 500px; 
+}
+
+#marker1, #marker2, #marker3{
+    display: flex;
+    align-items: center;
+}
+
+#lat1, #long1, #lat2, #long2, #lat3, #long3 {
+    margin-left: 10px;
+}
+
+#loc1, #loc2, #loc3 {
+    margin-top: 0px;
+}
